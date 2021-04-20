@@ -6,4 +6,6 @@ to run certain files on MATLAB's website or convert for use in GNU Octave or Sci
 can download and run Julia files simply by downloading the compiler from their site. It will run in the 
 terminal of your Operating System. Some programs are hard coded, meaning deviations from problems discussed
 or conversion for a separate problem will require editing the code in an editor of choice (or in MATLAB). 
-Others will prompt the user for inputs.
+Others will prompt the user for inputs. The code is not intended to be production ready or even project 
+ready; some may output plots, while others will only output answers to the command line, amongst other 
+methods. 
